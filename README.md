@@ -1,3 +1,4 @@
+JUST PYTHON 
 - 👋 Hi, I’m @Bern-3957
 - 👀 I’m interested in fishing
 - 🌱 I’m currently learning programming
